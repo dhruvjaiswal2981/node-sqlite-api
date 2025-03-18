@@ -163,7 +163,7 @@
 
 ## Google Drive Upload 
 
-- Access it here:
+- Access it here: https://drive.google.com/file/d/1g5VBOW6akhU3OULNBYAy85QmX_Uundus/view?usp=sharing
 
 ## 🚀 Deployment
 
