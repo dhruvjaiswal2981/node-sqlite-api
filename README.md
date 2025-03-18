@@ -22,14 +22,14 @@
 
     ``` bash
 
-    node_assignment/
-    │-- node_modules/
-    │-- database.sqlite      # SQLite database file  
-    │-- index.js             # Main server file  
-    │-- db.js                # Database connection setup  
-    │-- routes.js            # API routes  
-    │-- package.json         # Project dependencies  
-    │-- README.md            # Project documentation  
+        node_assignment/
+        │-- node_modules/
+        │-- database.sqlite      # SQLite database file  
+        │-- index.js             # Main server file  
+        │-- db.js                # Database connection setup  
+        │-- routes.js            # API routes  
+        │-- package.json         # Project dependencies  
+        │-- README.md            # Project documentation  
 
     ```
 
@@ -39,8 +39,8 @@
 
     ```bash
 
-    git clone https://github.com/dhruvjaiswal2981/node-sqlite-api.git
-    cd node-sqlite-api
+        git clone https://github.com/dhruvjaiswal2981/node-sqlite-api.git
+        cd node-sqlite-api
     
     ```
 
@@ -48,7 +48,7 @@
 
     ```bash
 
-    npm install
+        npm install
 
     ```
 
@@ -56,7 +56,7 @@
 
     ```bash
 
-    node index.js
+        node index.js
 
     ```
 
