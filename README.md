@@ -21,16 +21,14 @@
 ## 📂 Project Structure
 
     ``` bash
-
-        node_assignment/
-        │-- node_modules/
-        │-- database.sqlite      # SQLite database file  
-        │-- index.js             # Main server file  
-        │-- db.js                # Database connection setup  
-        │-- routes.js            # API routes  
-        │-- package.json         # Project dependencies  
-        │-- README.md            # Project documentation  
-
+    node_assignment/
+    │-- node_modules/
+    │-- database.sqlite      # SQLite database file  
+    │-- index.js             # Main server file  
+    │-- db.js                # Database connection setup  
+    │-- routes.js            # API routes  
+    │-- package.json         # Project dependencies  
+    │-- README.md            # Project documentation  
     ```
 
 ## ⚙️ Installation
@@ -38,26 +36,20 @@
 1️⃣ Clone the repository
 
     ```bash
-
-        git clone https://github.com/dhruvjaiswal2981/node-sqlite-api.git
-        cd node-sqlite-api
-    
+    git clone https://github.com/dhruvjaiswal2981/node-sqlite-api.git
+    cd node-sqlite-api
     ```
 
 2️⃣ Install dependencies
 
     ```bash
-
-        npm install
-
+    npm install
     ```
 
 3️⃣ Run the server
 
     ```bash
-
-        node index.js
-
+    node index.js
     ```
 
 - 🚀 The server will start at: http://localhost:3000
