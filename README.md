@@ -21,6 +21,7 @@
 ## 📂 Project Structure
 
     ``` bash
+
     node_assignment/
     │-- node_modules/
     │-- database.sqlite      # SQLite database file  
@@ -37,6 +38,7 @@
 1️⃣ Clone the repository
 
     ```bash
+
     git clone https://github.com/dhruvjaiswal2981/node-sqlite-api.git
     cd node-sqlite-api
     
@@ -45,13 +47,17 @@
 2️⃣ Install dependencies
 
     ```bash
+
     npm install
+
     ```
 
 3️⃣ Run the server
 
     ```bash
+
     node index.js
+
     ```
 
 - 🚀 The server will start at: http://localhost:3000
@@ -163,21 +169,14 @@
 
 
 
-## 📤 Submission
-1. Zip the project (node_assignment.zip) including:
-    - package.json
-    - index.js
-    - db.js
-    - routes.js
-    - README.md
-    - SQLite database file
-2. Upload to Google Drive
-3. Share the link for submission.
+## Google Drive Upload 
+
+- Access it here:
 
 ## 🚀 Deployment
 
 - Live Demo: The application is hosted on Render
-- Access it here:
+- Access it here: https://node-sqlite-api-5xwm.onrender.com
 
 ## 👨‍💻 Author
 - 💡 Developed by Dhruv Jaiswal
